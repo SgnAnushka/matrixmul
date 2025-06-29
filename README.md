@@ -1,6 +1,6 @@
-# untitled4
+# Matrix Multiplication
 
-A new Flutter project.
+basic app for multiplication of matrices.
 
 ## Getting Started
 
